@@ -112,8 +112,8 @@ if [ -d "singleinterfaceVoiceAgent2.0" ]; then
     rm -rf singleinterfaceVoiceAgent2.0
 fi
 
-git clone https://github.com/pragyaa-ai/singleinterfaceVoiceAgent2.0.git
-cd singleinterfaceVoiceAgent2.0
+git clone https://github.com/pragyaa-ai/RxOne2.0.git
+cd RxOne2.0
 
 print_status "Installing Node.js dependencies..."
 npm install
